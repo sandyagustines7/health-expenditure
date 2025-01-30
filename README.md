@@ -18,3 +18,4 @@ These research questions were created in order to better understand where and ho
 2. What do predictive models reveal on future expenditure patterns?
 3. What do future expenditure patterns mean for the future of healthcare?
 
+Note: this project is a WIP and is still ongoing - results will be published as they are completed.
