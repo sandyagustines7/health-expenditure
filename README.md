@@ -10,7 +10,7 @@ This project aims to analyze global health spending across 194 countries over tw
 
 These are the WHO's public databases, which contain a list of indicators and health outcomes that are easily filterable depending on what you are looking for. 
 
-**Research Questions: **
+**Research Questions:**
 
 These research questions were created in order to better understand where and how countries have invested into global healthcare, and whether these trends are subject to change in the forseeable future. 
 
