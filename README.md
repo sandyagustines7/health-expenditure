@@ -1,8 +1,8 @@
-**Mapping Global Health Expenditure Trends and the Future: Insights from 194 Countries (2000-2020)**
+**Mapping Global Health Expenditure Trends and the Future: Insights from 192 Countries (2000-2020)**
 
 **Project Description**
 
-This project aims to analyze global health spending across 194 countries over two decades. Using PostGreSQL, a database was created to maintain all health indicators and outcomes data, which was then analyzed using exploratory data analysis (descriptive statistics and correlations) and advanced machine learning methods on Python. The ultimate goal is to provide insights into how spending has changed, and whether they have had positive or negative impacts on specific health outcomes such as life expectancy and mortality rates.
+This project aims to analyze global health spending across 192 countries over two decades. Using PostGreSQL, a database was created to maintain all health indicators and outcomes data, which was then analyzed using exploratory data analysis (descriptive statistics and correlations) and advanced machine learning methods on Python. The ultimate goal is to provide insights into how spending has changed, and whether they have had positive or negative impacts on specific health outcomes such as life expectancy and mortality rates.
 
 **Data Sources:**
 - Global Health Expenditure Database (GHED): https://apps.who.int/nha/database/Home/Index/en
