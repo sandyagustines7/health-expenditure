@@ -17,7 +17,7 @@ Using PostGreSQL for structured data amanagement and Python for modeling and ana
 
 These are the WHO's public databases, which contain a list of indicators and health outcomes that are easily filterable depending on what you are looking for. 
 
-**Research Questions:**
+**Research Questions**
 
 These research questions were created in order to better understand where and how countries have invested into global healthcare, and whether these trends are subject to change in the forseeable future. 
 
