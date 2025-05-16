@@ -2,7 +2,14 @@
 
 **Project Description**
 
-This project aims to analyze global health spending across 192 countries over two decades. Using PostGreSQL, a database was created to maintain all health indicators and outcomes data, which was then analyzed using exploratory data analysis (descriptive statistics and correlations) and advanced machine learning methods on Python. The ultimate goal is to provide insights into how spending has changed, and whether they have had positive or negative impacts on specific health outcomes such as life expectancy and mortality rates.
+This project aims to analyze global health spending across 192 countries over two decade, wtih a focus on understanding how expenditure patterns have evolved, what drives them and what they might look like in the future. 
+
+Using PostGreSQL for structured data amanagement and Python for modeling and analysis, the project combines descriptive statistics, predictive modeling (ARIMA), regression analysis and unsupervised learning (clustering) to extract actionable insights. TWhe results are surfaced through an interactive Tableau dashboard for policy and investment stakeholders. 
+
+**Tools and Technologies**
+- PostgreSQL: data storage, cleaning and transformation
+- Python (Pandas, statsmodels, scikit-learn): EDA, ARIMA forecasting, regression modeling, clustering
+- Tableau: interactive dashboard for exploration and visualization
 
 **Data Sources:**
 - Global Health Expenditure Database (GHED): https://apps.who.int/nha/database/Home/Index/en
@@ -14,8 +21,18 @@ These are the WHO's public databases, which contain a list of indicators and hea
 
 These research questions were created in order to better understand where and how countries have invested into global healthcare, and whether these trends are subject to change in the forseeable future. 
 
-1. How have global spending trends evolved over the past two decades across countries?
-2. What do predictive models reveal on future expenditure patterns?
-3. What do future expenditure patterns mean for the future of healthcare?
+1. Spending Trends: How has health expenditure evolved globally from 2000-2020?
+2. Forecasting: What do predictive models suggest about future spending trajectories?
+3. Impact: How do different types of spending (e.g. public vs private) relate to health outcomes such as life expectancy and mortality rates?
+4. Comparative Insights: How do countries cluster by spending profiles? What regional or economic similarities emerge?
 
-Note: this project is a WIP and is still ongoing - results will be published as they are completed.
+**Current Outputs** 
+- Cleaned and normalized database with metadata on regions, countries and indicators
+- Exploratory Data Analysis (e.g. KPI summaries, correlation metrics)
+- ARIMA-based forecasts on future spending
+- Regression models exploring relationship between expenditure and health outcomes
+- Clustering analysis to identify similar country profiles
+- Tableau dashboard for interactive visual exploration (in progress)
+
+**Status**
+This project is in its final stages. All core analyses is complete and the dashboard is being finalzied for publication. 
