@@ -36,4 +36,4 @@ These research questions were created in order to better understand where and ho
 
 **Status**
 
-This project is in its final stages. All core analyses is complete and the dashboard is being finalzied for publication. 
+This project is in its final stages. All core analyses is complete and the dashboard is being finalized for publication. 
